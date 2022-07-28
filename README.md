@@ -7,7 +7,7 @@
 | reach-router | 라우팅                        |
 | jotai        | 상태 관리                     |
 | type-script  | 작성 언어                     |
-| vite         | 에코시스템                    |
+| vite         | 번들링 및 환경설정            |
 | node-js      | 16 이상 (16 미만에서 구동 ❌) |
 
 ---
